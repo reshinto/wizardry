@@ -1,4 +1,5 @@
-# Wizardry role playing game tutorial
+# Tutorial for building a Wizardry role playing game
+* This is built from watching a tutorial online
 ## Built with C++
 ## How to run
 1. compile
